@@ -1,0 +1,23 @@
+{
+  "name": "npmtestlog",
+  "version": "1.0.0",
+  "description": "Creating and testing npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasnzahmd/npmtestlog.git"
+  },
+  "keywords": [
+    "npmtest",
+    "npmlog"
+  ],
+  "author": "Hassan Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasnzahmd/npmtestlog/issues"
+  },
+  "homepage": "https://github.com/hasnzahmd/npmtestlog#readme"
+}
